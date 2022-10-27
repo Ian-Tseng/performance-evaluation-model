@@ -14,7 +14,7 @@ requirements.txt
 ```
 1. This is a system that execute performace evaluation automatically.
 2. Learn a evaluation pattern from teacher and train with LSTM.
-3. Use the model to predict the answer of students in same question.
+3. Use the model to predict and evaluation the answer of students in same question.
 
 ```
 
