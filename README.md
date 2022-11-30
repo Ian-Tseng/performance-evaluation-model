@@ -19,12 +19,12 @@ requirements.txt
 ```
 
 ## Training data
-```
+
 | Answer               | Block relation | Expected score | Block relation | Expected score | Block relation | Expected score | Block relation | Expected score |Block relation | Expected score |
 |----------------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
 | [1, 2, 3, 4, 6, 104] | [1, '->', 2]   | 5              | [2, '->', 3]   | 5              | [3, '->', 4]   | 5              | [4, '->', 6]   | 1              | [6, '->', 104] | -5             |
 | [1, 2, 3, 4, 6, 106] | [1, '->', 2]   | 5              | [2, '->', 3]   | 5              | [3, '->', 4]   | 5              | [4, '->', 6]   | 1              | [6, '->', 106] | -5             |
-```
+
 
 ## AUTHORS
 [Ian-Tseng](https://github.com/Ian-Tseng/)
