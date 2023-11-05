@@ -8,7 +8,10 @@
 ```
 requirements.txt
 ```
-
+### Model architecture
+```
+The ANN model architecture using transformer.
+```
 
 ### Idea 
 ```
