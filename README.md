@@ -1,4 +1,4 @@
-# Auto-performance-evaluation-with-LSTM
+# Performance-evaluation-model
 
 
 ## Prerequisite
@@ -12,9 +12,9 @@ requirements.txt
 
 ### Idea 
 ```
-1. This is a system that execute performace evaluation automatically.
-2. Learn a evaluation pattern from teacher and train with LSTM.
-3. Use the model to predict and evaluation the answer of students in same question.
+1. This is a deep learning model that learn from the pre-scored answer data sets to predict performance score.
+2. The basic idea is the model learn the logical pattern of pre-scored answer data sets from teacher.
+3. Use the model to predict and evaluation the answers from students which can replace the teacher.
 
 ```
 
