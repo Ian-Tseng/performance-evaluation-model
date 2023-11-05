@@ -8,11 +8,14 @@
 2. The basic idea is the model learn the logical pattern of pre-scored answer data sets from teacher.
 3. Use the model to predict and evaluation the answers from students which can replace the teacher.
 
+
 ### Model architecture
 The ANN model architecture using transformer.
 
+
 ### Prerequisite
 - Python 3.10
+
 
 ### Install Dependency
 ```
