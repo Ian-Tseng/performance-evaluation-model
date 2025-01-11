@@ -4,13 +4,12 @@
 
 
 ### Idea 
-1. This is a deep learning model that learn from the pre-scored answer data sets to predict performance score.
-2. The basic idea is the model learn the logical pattern of pre-scored answer data sets from teacher.
-3. Use the model to predict and evaluation the answers from students which can replace the teacher.
+1. This is a deep learning model that learn from the pre-scored answer data sets to predict performance score of concept map questions.
+2. It learns the feature that data transformed into logical feature or graph feature.
 
 
 ### Model architecture
-The ANN model architecture using transformer.
+The model architecture is transformer.
 
 
 ### Prerequisite
