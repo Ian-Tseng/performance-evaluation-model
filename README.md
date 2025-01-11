@@ -4,7 +4,7 @@
 
 
 ### Idea 
-1. This is a deep learning model that learn from the pre-scored answer data sets to predict performance score of concept map questions.
+1. This is a deep learning model that learn from the pre-scored concept map question's answer dataset to predict performance score.
 2. It learns the feature that data transformed into logical feature or graph feature.
 
 
