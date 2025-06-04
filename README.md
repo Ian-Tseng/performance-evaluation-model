@@ -3,26 +3,33 @@
 
 
 
-### Idea 
-1. This is a deep learning model that learn from the pre-scored concept map question's answer dataset to predict performance score.
-2. It learns the feature that data transformed into logical feature or graph feature.
+### Overview 
+This is a deep learning model designed to predict performance scores based on pre-scored concept map question answers. It leverages features derived from logical or graph-based transformations of the input data.
 
 
 ### Model architecture
-The model architecture is transformer.
+The model is based on the Transformer architecture, which is well-suited for learning from structured and sequential data such as concept maps.
 
 
 ### Prerequisite
 - Python 3.10
 
 
-### Install Dependency
+### Installation
+To install the required dependencies, run:
 ```
-requirements.txt
+pip install -r requirements.txt
 ```
 
 
-## Training data
+## Training Data Format
+The training dataset consists of:
+
+Answer: A list of node identifiers from the concept map.
+
+Block relation: Directed edges representing logical or semantic relationships between the nodes.
+
+Expected score: A score representing the correctness or relevance of each relation.
 
 | Answer               | Block relation | Expected score |
 |----------------------|----------------|----------------|
