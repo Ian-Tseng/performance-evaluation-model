@@ -4,7 +4,7 @@
 
 
 ### Overview 
-This is a deep learning model designed to predict performance scores based on pre-scored concept map question answers. It leverages features derived from logical or graph-based transformations of the input data.
+This is a deep learning model designed to predict performance scores of concept map type questions based on pre-scored concept map question answers. It leverages features derived from logical or graph-based transformations of the input data.
 
 
 ### Model architecture
